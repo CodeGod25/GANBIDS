@@ -1,0 +1,10 @@
+Flask==3.1.0
+Flask-CORS==4.0.0
+Flask-SocketIO==5.4.0
+torch
+torchvision
+scikit-learn
+numpy
+python-socketio
+python-engineio
+joblib

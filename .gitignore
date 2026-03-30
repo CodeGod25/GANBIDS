@@ -1,0 +1,31 @@
+# Top-level dependencies
+node_modules/
+dist/
+build/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment files
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GANBIDS specific
+ganbids/node_modules/
+ganbids/dist/
+ganbids-backend/__pycache__/
+ganbids-backend/sessions/*.json
